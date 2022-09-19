@@ -1,0 +1,5 @@
+---
+title: "DNA-seq"
+---
+
+The objective of this project is to compare sequence data variants between tumor and normal patient samples from `whole genome sequence data` (WGS).

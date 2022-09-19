@@ -1,0 +1,13 @@
+name: "my-website"
+output_dir: "docs"
+navbar:
+  title: "DNA-seq Pipeline"
+  left:
+    - text: "R Markdown"
+      href: DNA-seq.html
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    highlight: textmate
+    css: styles.css
